@@ -1,0 +1,17 @@
+
+database:
+  driver:
+  host:
+  port:
+  dbname:
+  user:
+  password:
+  charset:
+
+web:
+  host: localhost
+  port: 3306
+
+redis:
+  host: localhost
+  port: 3306
